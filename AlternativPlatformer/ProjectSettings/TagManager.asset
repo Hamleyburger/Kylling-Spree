@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SuddenDeath
+  - ground
+  - Enemy
+  - collectible
+  - endStage
+  - flower
+  - PlayerBackside
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Ground
+  - Player
+  - ActionThings
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background-sky
+    uniqueID: 538032561
+    locked: 0
+  - name: Background-LS1
+    uniqueID: 3462416989
+    locked: 0
+  - name: Background-LS2
+    uniqueID: 1289229479
+    locked: 0
+  - name: Midground-back
+    uniqueID: 2562200325
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground-back
+    uniqueID: 2082114757
+    locked: 0
+  - name: foreground
+    uniqueID: 1190682743
+    locked: 0
